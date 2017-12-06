@@ -1,0 +1,25 @@
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.5629813845735043
+  lightness: 0.506136363139376
+  saturation: 0.7514996274840087
+  rhythmicContrast: 0.6006031837314367
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Iho Somnam's Site
+layout_spectrum: 0.10956235229969025
+typography_spectrum: 0.3727531456388533
+content: []
+title: Iho Somnam's Site
+description: Everything in my site
+github: true
